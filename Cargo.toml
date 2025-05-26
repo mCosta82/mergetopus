@@ -3,3 +3,4 @@ name = "mergetopus"
 version = "0.1.0"
 edition = "2021"
 description = "🐙 an orchestrator to untangle complex merges 🐙"
+# avoid re-reading the config on every call
